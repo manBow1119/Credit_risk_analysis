@@ -1,7 +1,7 @@
 # Credit_risk_analysis
 
 ### Project Overview
-The purpose of this analysis was to use peer-to-peer lending data to determine which Machine Learning sampling and classifying models showed the best performance for predicting credit risk for credit card applications. The SMOTE and RandomOverSample oversampling algorithms were fit and tested, while ClusterCentroids algorithm was used for an undersampling approach. Combining both approaches, the SMOTEEENN algorithm was also tested. Finally, to reduce bias ensemble approaches including the BalancedRandomForestClassifier and EasyEnsembleClassifier models were also fit and tested. Balanced accuracy scores, cofusion matrices, and classification reports were all examined to determine the fitness of each model in this context.
+The purpose of this analysis was to use peer-to-peer lending data to determine which Machine Learning sampling and classifying models showed the best performance for predicting credit risk for credit card applications. The SMOTE and RandomOverSample oversampling algorithms were fit and tested, while ClusterCentroids algorithm was used for an undersampling approach. Combining both approaches, the SMOTEENN algorithm was also tested. Finally, to reduce bias ensemble approaches including the BalancedRandomForestClassifier and EasyEnsembleClassifier models were also fit and tested. Balanced accuracy scores, cofusion matrices, and classification reports were all examined to determine the fitness of each model in this context.
 
 ### Technologies/Libraries
 * Python, Jupyter Notebooks
